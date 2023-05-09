@@ -2,8 +2,5 @@ Actriz 1
 Actriz 2
 Actriz 3
 Actriz 4
-<<<<<<< HEAD
 Actriz Margarita
-=======
 Actriz test2
->>>>>>> test2
